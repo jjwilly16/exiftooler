@@ -1,0 +1,17 @@
+# GIT IGNORE
+node_modules
+.vscode
+
+# Build Files
+
+public/assets/css/main.css
+public/assets/css/main.min.css
+public/assets/js/main.js
+
+
+# Windows detritus
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
