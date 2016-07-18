@@ -1,0 +1,34 @@
+{
+  "name": "exiftooler",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for Phil Harvey's Exiftool library that can read, write and delete metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "exiftool",
+    "nodejs",
+    "node",
+    "wrapper",
+    "read",
+    "write",
+    "metadata",
+    "images",
+    "video",
+    "files"
+  ],
+  "author": {
+    "name": "Justin Williamson",
+    "email": "jjwilly1984@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {}
+}
